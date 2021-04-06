@@ -1,0 +1,8 @@
+Django==2.2
+djangorestframework==3.12.2
+ipython
+ipython-genutils==0.2.0
+psycopg2
+psycopg2-binary
+python-decouple==3.1
+django-widget-tweaks==1.4.8

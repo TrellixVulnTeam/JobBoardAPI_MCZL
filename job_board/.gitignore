@@ -1,4 +1,5 @@
 .env
-.code
+.vccode
 .mynote.txt
+requirements
 myvenv

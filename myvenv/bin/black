@@ -1,4 +1,4 @@
-#!/home/italia/Documents/GitRepo/JobBoardAPI/myvenv/bin/python3.8
+#!/home/italia/Documents/GitRepo/JobBoardAPI/myvenv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
